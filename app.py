@@ -5,7 +5,6 @@ import numpy as np
 st.title('Censo')
 Nombre=st.sidebar.text_input('Nombre')
 NSS=st.sidebar.text_input("NSS","",10)
-NSS1=int(NSS)
 
 #Falta ver como exigir que sean 10 digitos si no no se puede avanzar
 
